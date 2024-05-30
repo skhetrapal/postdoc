@@ -1,0 +1,3 @@
+This folder contains programming files for paper: https://arxiv.org/abs/2402.13558
+1) Program to simulate Ising spin chains using tensor networks and compute time evolution of entanglement entropy. 
+2) Program for visualization of data obtained from statistical model.
