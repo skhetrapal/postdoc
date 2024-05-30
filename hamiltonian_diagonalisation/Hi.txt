@@ -1,0 +1,1 @@
+Hi, this folder contains codes written to diagonalise the Hamiltonian. The Hamiltonian is block-diagonal and diagonalisation is performed within each block. Visualization of obtained eigenvalue distribution is found in the mathematica file.
