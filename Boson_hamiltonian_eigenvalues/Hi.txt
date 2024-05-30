@@ -1,0 +1,2 @@
+Here is the code to visualize the eigenvalues obtained by diagonalizing the Hamiltonian of quantum system of bosons studied in the paper: https://journals.aps.org/pra/abstract/10.1103/PhysRevA.100.023605 .
+We determine the statistical distribution (Poisson/Wigner-Dyson) which the eigenvalues follow. 
